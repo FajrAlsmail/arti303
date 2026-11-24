@@ -1,1 +1,22 @@
+# Python environment and cache
 .venv/
+__pycache__/
+.pytest_cache/
+
+# Logs and credentials
+logs/
+kaggle.json
+.env
+
+# Generated lab files
+/data/features.pt
+/data/messy/
+/data/video/
+/data/students.csv
+/data/students_messy.csv
+/data/students_cleaned.csv
+/data/students_prep.csv
+/data/students_ready.csv
+
+# Local backup
+/lab05_changes.txt

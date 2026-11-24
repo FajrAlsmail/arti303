@@ -20,3 +20,7 @@ kaggle.json
 
 # Local backup
 /lab05_changes.txt
+# Local lab artifacts
+/data/images/
+/data/students_clean.csv
+/figures/gpa_attendance.png
